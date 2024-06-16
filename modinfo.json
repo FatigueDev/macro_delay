@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "thirdperson_crosshair",
+    "name": "Thirdperson Crosshair",
+    "authors": [
+        "Lila"
+    ],
+    "side": "client",
+    "description": "Show your crosshair in thirdperson. Ideally used in tandem with immersive thirdperson.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.19.8"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "Index": 11,
+  "Code": "WaypointRecursion",
+  "Name": "WaypointRecursion",
+  "Commands": [
+    "/waypoint add red Candy!",
+    ".mdelay 1500",
+    ".mdrepeat"
+  ],
+  "KeyCombination": null
+}

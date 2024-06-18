@@ -1,0 +1,12 @@
+{
+  "Index": 13,
+  "Code": "Macro_14",
+  "Name": "MD Pong",
+  "Commands": [
+    "Pong",
+    ".mdelay 2000",
+    ".mdrun 12",
+    ".mdstop 13"
+  ],
+  "KeyCombination": null
+}

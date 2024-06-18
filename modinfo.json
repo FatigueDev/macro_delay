@@ -1,12 +1,12 @@
 {
     "type": "code",
-    "modid": "thirdperson_crosshair",
-    "name": "Thirdperson Crosshair",
+    "modid": "macro_delay",
+    "name": "Macro Delay",
     "authors": [
         "Lila"
     ],
     "side": "client",
-    "description": "Show your crosshair in thirdperson. Ideally used in tandem with immersive thirdperson.",
+    "description": "Allows you to add delays in between the lines of your macros for very lengthy command chains.",
     "version": "1.0.0",
     "dependencies": {
         "game": "1.19.8"

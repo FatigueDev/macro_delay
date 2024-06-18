@@ -1,0 +1,12 @@
+{
+  "Index": 12,
+  "Code": "Macro_13",
+  "Name": "MD Ping",
+  "Commands": [
+    "Ping",
+    ".mdelay 2000",
+    ".mdrun 13",
+    ".mdstop 12"
+  ],
+  "KeyCombination": null
+}
